@@ -1,0 +1,121 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Ankit Kumar
+    tagline: Software Engineer
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ankit.kumar.jsr@gmail.com
+    phone: +91-7042194847
+    citizenship: Indian
+    linkedin: ankitkumar31
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: Hindi
+          level: Professional
+
+career-profile:
+    title: Career Profile
+    summary: |
+      In my 6 year plus career as a developer I have focused builidng scalable
+      and robust systems for automating complex business processes eventually. I enjoy working with people
+      and getting things done. Looking for challenging opportuinities to build and
+      maintain scalable systems along with other talented people.
+
+education:
+    title: Education
+    info:
+      - degree: MSc in Communication Engineering
+        university: Nanyang Technological University
+        time: 2018 - 2019
+      - degree: B.Tech in Electronics and Communication Engineering
+        university: NIT, Allahabad
+        time: 2012 - 2016
+
+experiences:
+    title: Experiences
+    info:
+      - role: Lead Sofware Development Engineer
+        time: Oct 2021 - Present
+        company:  Razorpay Software Pvt Limited, Bengaluru
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Automation Engineer(Network)
+        time: June 2020 - Oct 2021
+        company: Facebook Inc, Singapore
+        details: |
+          - Worked on building a rule based service to ensure quality of data used across network infra thus reducing unexpected
+            automation failures due to inconsistent data. The service also had support for automatic remediations of certain issues
+          - Developed full stack solution for tracking purchase orders within the organization saving 700+ hours of manual lookup per year.
+          - Designed a chatbot to enable teams to query data thus improving employee efficiency
+          - Developed workflows to automate manual processes for deployment activities leading to 1000+ hours savings per year.
+          - Helped the APAC team grow from 3x through extensive hiring, interviewing and onboarding support
+      - role: Manager
+        time: May 2019 -June 2020
+        company: Singapore Telecommunications Limited, Singapore
+        details: |
+          - Built a web-based service to monitor end-to-end latencies between global internet and  enterprise internet solution and
+            deployed it on AWS.
+          - Define requirements for new product integration such as software defined core networks.
+      - role: Assistant Manager
+        time: June 2016  -July 2018
+        company: Bharti Aitel Ltd, Gurgaon, India
+        details: |
+          - Developed an automated solution for existing quality measurement and reporting process reducing turnaround time by 70%.
+          - Designed the architecture for speed test infrastructure while supervising a cross-functional team for its deployment. 
+
+projects:
+    title: Academic & Co-Curicular Activities
+    assignments:
+      - tagline: "Top of the batch at NTU Singapore finishing a 4 semester course in 2 semesters."
+      - tagline: "Coached 90+ students in Mathematics as weekend tutor"
+      - tagline: "Organized FPGA event as event coordinator for a technology event at NIT, Allahabad, India."
+      - tagline: "Awarded Tata Steel Merit Scholarship for 4 years of undergraduate education."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Golang
+        level: Proficient
+
+      - name: Python
+        level: Proficient
+
+      - name: Kubenetes
+        level: Proficient
+
+      - name: Docker
+        level: Proficient
+      
+      - name: Prometheus
+        level: Intermediate
+      
+      - name: Grafana
+        level: Intermediate
+      
+      - name: Javascript and React
+        level: Beginner
+      
