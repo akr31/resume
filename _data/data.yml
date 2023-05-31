@@ -51,17 +51,10 @@ experiences:
         time: Oct 2021 - Present
         company:  Razorpay Software Pvt Limited, Bengaluru
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Built a credit risk engine for Razorpay capital responsible for underwriting cases on 150+ parameters, eventually automated 85% of decisions
+            - Built a fraud check system to detectd merchants with fraudulent credidentials trying to apply for credit
+            - Desgined a scalable data pipeline to ingest 150+ credit parameters for underwriting
+            - Helped shape the best practices around code and culture within the Risk engineering team with focus on knowledge sharing
       - role: Automation Engineer(Network)
         time: June 2020 - Oct 2021
         company: Facebook Inc, Singapore
